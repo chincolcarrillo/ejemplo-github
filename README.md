@@ -1,3 +1,3 @@
 # ejemplo-github
 
-hola, este es un ejemplo simple para el ppt
+Hola, este es un ejemplo simple para la presentación.
